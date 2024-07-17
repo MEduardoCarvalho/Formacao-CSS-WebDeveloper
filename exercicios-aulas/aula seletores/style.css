@@ -21,6 +21,6 @@ h1,h2{ /*seletor por tags */
 
 main, h1{
     height: auto;
-    width: 700px;
+    width: 690px;
     margin: auto;
 }
